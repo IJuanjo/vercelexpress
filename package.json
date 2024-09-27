@@ -2,9 +2,9 @@
   "name": "verce-test",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "api/app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node api/app.js"
    },
   "author": "",
   "license": "ISC",
